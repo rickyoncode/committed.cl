@@ -1,0 +1,259 @@
+FAILED: https://web.archive.org/web/20180815120255/http://committed.cl/wp-content/themes/Impreza
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/wp-content/themes/Impreza
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/wp-content/themes/Impreza
+FAILED: https://web.archive.org/web/20180815152119/http://committed.cl/wp-content/themes/Impreza
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/wp-content/themes/Impreza
+FAILED: https://web.archive.org/web/20241122172157/http://committed.cl/wp-content/plugins/revslider/public/assets/js/
+FAILED: https://web.archive.org/web/20241122172157/http://committed.cl/wp-content/themes/Impreza
+SUCCESS: http://web.archive.org/web/20180815120255/http://committed.cl/?wordfence_lh=1&amp;hid=A061F5B14854C46EEF20FD512EBAB60B -> /root/k1ltr0/committed.cl/static/?wordfence_lh=1&amp;hid=A061F5B14854C46EEF20FD512EBAB60B
+SUCCESS: http://web.archive.org/web/20180815120255cs_/http://committed.cl/wp-content/themes/Impreza-child/style.css?ver=4.1.1 -> /root/k1ltr0/committed.cl/static/css/style.css?ver=4.1.1
+SUCCESS: http://web.archive.org/web/20180815120255cs_/http://committed.cl/wp-content/themes/Impreza/css/responsive.min.css?ver=4.1.1 -> /root/k1ltr0/committed.cl/static/css/responsive.min.css?ver=4.1.1
+SUCCESS: http://web.archive.org/web/20180815120255cs_/http://committed.cl/wp-content/themes/Impreza/css/style.min.css?ver=4.1.1 -> /root/k1ltr0/committed.cl/static/css/style.min.css?ver=4.1.1
+SUCCESS: http://web.archive.org/web/20180815120255cs_/http://committed.cl/wp-content/themes/Impreza/framework/css/us-base.min.css?ver=4.1.1 -> /root/k1ltr0/committed.cl/static/css/us-base.min.css?ver=4.1.1
+SUCCESS: http://web.archive.org/web/20180815120255js_/http://committed.cl/wp-content/themes/Impreza/framework/js/jquery.magnific-popup.js?ver=1.1.0 -> /root/k1ltr0/committed.cl/static/js/jquery.magnific-popup.js?ver=1.1.0
+SUCCESS: http://web.archive.org/web/20180815120255js_/http://committed.cl/wp-content/themes/Impreza/framework/js/us.core.min.js?ver=4.1.1 -> /root/k1ltr0/committed.cl/static/js/us.core.min.js?ver=4.1.1
+SUCCESS: http://web.archive.org/web/20180815120308/http://committed.cl/?wordfence_lh=1&amp;hid=263D23881C5837349A5EA4A6EA6A2A98 -> /root/k1ltr0/committed.cl/static/?wordfence_lh=1&amp;hid=263D23881C5837349A5EA4A6EA6A2A98
+SKIP: /root/k1ltr0/committed.cl/static/css/style.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/responsive.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/style.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/us-base.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.magnific-popup.js?ver=1.1.0 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/us.core.min.js?ver=4.1.1 (already exists)
+FAILED: http://web.archive.org/web/20180815145325/http://committed.cl/?wordfence_lh=1&amp;hid=48A9A291A2069AC0726A65E7ECF45668
+SKIP: /root/k1ltr0/committed.cl/static/css/style.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/responsive.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/style.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/us-base.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.magnific-popup.js?ver=1.1.0 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/us.core.min.js?ver=4.1.1 (already exists)
+FAILED: http://web.archive.org/web/20180815152119/http://committed.cl/?wordfence_lh=1&amp;hid=8D6686B27A58EF40E7CCC1D699183678
+SKIP: /root/k1ltr0/committed.cl/static/css/style.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/responsive.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/style.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/us-base.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.magnific-popup.js?ver=1.1.0 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/us.core.min.js?ver=4.1.1 (already exists)
+FAILED: http://web.archive.org/web/20180924010053/http://committed.cl/?wordfence_lh=1&amp;hid=E6C75F66B3A977577782FB79857AB388
+SKIP: /root/k1ltr0/committed.cl/static/css/style.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/responsive.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/style.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/us-base.min.css?ver=4.1.1 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.magnific-popup.js?ver=1.1.0 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/us.core.min.js?ver=4.1.1 (already exists)
+FAILED: https://web.archive.org/web/20180815120255/http://committed.cl/
+SUCCESS: https://web.archive.org/web/20180815120255/http://committed.cl/?p=103 -> /root/k1ltr0/committed.cl/static/?p=103
+FAILED: https://web.archive.org/web/20180815120255/http://committed.cl/clientes/
+FAILED: https://web.archive.org/web/20180815120255/http://committed.cl/clientes/</div
+FAILED: https://web.archive.org/web/20180815120255/http://committed.cl/comments/feed/
+FAILED: https://web.archive.org/web/20180815120255/http://committed.cl/contacto/
+FAILED: https://web.archive.org/web/20180815120255/http://committed.cl/feed/
+FAILED: https://web.archive.org/web/20180815120255/http://committed.cl/galeria/
+FAILED: https://web.archive.org/web/20180815120255/http://committed.cl/nosotros/
+FAILED: https://web.archive.org/web/20180815120255/http://committed.cl/servicios/
+SUCCESS: https://web.archive.org/web/20180815120255/http://committed.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommitted.cl%2Fclientes%2F -> /root/k1ltr0/committed.cl/static/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommitted.cl%2Fclientes%2F
+FAILED: https://web.archive.org/web/20180815120255/http://committed.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommitted.cl%2Fclientes%2F&amp;format=xml
+FAILED: https://web.archive.org/web/20180815120255/http://web.archive.org/screenshot/http://committed.cl/clientes/
+SUCCESS: https://web.archive.org/web/20180815120255cs_/http://committed.cl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3 -> /root/k1ltr0/committed.cl/static/css/styles.css?ver=5.0.3
+SUCCESS: https://web.archive.org/web/20180815120255cs_/http://committed.cl/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.1.5 -> /root/k1ltr0/committed.cl/static/css/settings.css?ver=5.3.1.5
+SUCCESS: https://web.archive.org/web/20180815120255cs_/http://committed.cl/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=4.9.8 -> /root/k1ltr0/committed.cl/static/css/Defaults.css?ver=4.9.8
+FAILED: https://web.archive.org/web/20180815120255im_/http://committed.cl/clientes/
+SUCCESS: https://web.archive.org/web/20180815120255im_/http://committed.cl/wp-content/uploads/2017/05/LOGO_COMMITTED.png -> /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/LOGO_COMMITTED.png
+FAILED: https://web.archive.org/web/20180815120255im_/http://committed.cl/wp-content/uploads/2017/05/concrete_seamless.png);background-repeat:
+SUCCESS: https://web.archive.org/web/20180815120255im_/http://committed.cl/wp-content/uploads/2017/05/cropped-FAVICON-180x180.png -> /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-180x180.png
+SUCCESS: https://web.archive.org/web/20180815120255im_/http://committed.cl/wp-content/uploads/2017/05/cropped-FAVICON-192x192.png -> /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-192x192.png
+SUCCESS: https://web.archive.org/web/20180815120255im_/http://committed.cl/wp-content/uploads/2017/05/cropped-FAVICON-32x32.png -> /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-32x32.png
+SUCCESS: https://web.archive.org/web/20180815120255im_/http://committed.cl/wp-content/uploads/2017/06/HEADER.jpg -> /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/06/HEADER.jpg
+SUCCESS: https://web.archive.org/web/20180815120255im_/http://committed.cl/wp-content/uploads/2018/08/Logo-Pesco-Rental-transparente-mas-chico3.png -> /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2018/08/Logo-Pesco-Rental-transparente-mas-chico3.png
+SUCCESS: https://web.archive.org/web/20180815120255im_/http://committed.cl/wp-content/uploads/2018/08/logo-furia-recorte-web.png -> /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2018/08/logo-furia-recorte-web.png
+FAILED: https://web.archive.org/web/20180815120255js_/http://committed.cl/google_analytics_auto.js
+SUCCESS: https://web.archive.org/web/20180815120255js_/http://committed.cl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3 -> /root/k1ltr0/committed.cl/static/js/scripts.js?ver=5.0.3
+SUCCESS: https://web.archive.org/web/20180815120255js_/http://committed.cl/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5 -> /root/k1ltr0/committed.cl/static/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5
+SUCCESS: https://web.archive.org/web/20180815120255js_/http://committed.cl/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.3.1.5 -> /root/k1ltr0/committed.cl/static/js/jquery.themepunch.tools.min.js?ver=5.3.1.5
+SUCCESS: https://web.archive.org/web/20180815120255js_/http://committed.cl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 -> /root/k1ltr0/committed.cl/static/js/jquery-migrate.min.js?ver=1.4.1
+FAILED: https://web.archive.org/web/20180815120255js_/http://committed.cl/wp-includes/js/jquery/jquery.js?ver=1.12.4
+FAILED: https://web.archive.org/web/20180815120255js_/http://committed.cl/wp-includes/js/wp-embed.min.js?ver=4.9.8
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/?p=20
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/clientes/
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/comments/feed/
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/contacto/
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/contacto/#wpcf7-f99-p20-o1
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/contacto/</div
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/feed/
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/galeria/
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/nosotros/
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/servicios/
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/LOGO_COMMITTED.png (already exists)
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommitted.cl%2Fcontacto%2F
+FAILED: https://web.archive.org/web/20180815120308/http://committed.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommitted.cl%2Fcontacto%2F&amp;format=xml
+FAILED: https://web.archive.org/web/20180815120308/http://web.archive.org/screenshot/http://committed.cl/contacto/
+SKIP: /root/k1ltr0/committed.cl/static/css/styles.css?ver=5.0.3 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/settings.css?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/Defaults.css?ver=4.9.8 (already exists)
+FAILED: https://web.archive.org/web/20180815120308im_/http://committed.cl/contacto/
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/LOGO_COMMITTED.png (already exists)
+FAILED: https://web.archive.org/web/20180815120308im_/http://committed.cl/wp-content/uploads/2017/05/concrete_seamless.png);background-repeat:
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-180x180.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-192x192.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-32x32.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/06/HEADER.jpg (already exists)
+FAILED: https://web.archive.org/web/20180815120308js_/http://committed.cl/google_analytics_auto.js
+SKIP: /root/k1ltr0/committed.cl/static/js/scripts.js?ver=5.0.3 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.themepunch.tools.min.js?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery-migrate.min.js?ver=1.4.1 (already exists)
+FAILED: https://web.archive.org/web/20180815120308js_/http://committed.cl/wp-includes/js/jquery/jquery.js?ver=1.12.4
+FAILED: https://web.archive.org/web/20180815120308js_/http://committed.cl/wp-includes/js/wp-embed.min.js?ver=4.9.8
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/?p=16
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/clientes/
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/comments/feed/
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/contacto/
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/feed/
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/galeria/
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/nosotros/
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/servicios/
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/servicios/</div
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommitted.cl%2Fservicios%2F
+FAILED: https://web.archive.org/web/20180815145325/http://committed.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommitted.cl%2Fservicios%2F&amp;format=xml
+FAILED: https://web.archive.org/web/20180815145325/http://web.archive.org/screenshot/http://committed.cl/servicios/
+FAILED: https://web.archive.org/web/20180815145325cs_/http://committed.cl/wp-content/plugins/codelights-shortcodes-and-widgets/css/cl-core.css?ver=1.3
+FAILED: https://web.archive.org/web/20180815145325cs_/http://committed.cl/wp-content/plugins/codelights-shortcodes-and-widgets/css/cl-flipbox.css?ver=1.3
+SKIP: /root/k1ltr0/committed.cl/static/css/styles.css?ver=5.0.3 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/settings.css?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/Defaults.css?ver=4.9.8 (already exists)
+FAILED: https://web.archive.org/web/20180815145325im_/http://committed.cl/servicios/
+FAILED: https://web.archive.org/web/20180815145325im_/http://committed.cl/wp-content/uploads/2017/05/*
+FAILED: https://web.archive.org/web/20180815145325im_/http://committed.cl/wp-content/uploads/2017/05/</a
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/LOGO_COMMITTED.png (already exists)
+FAILED: https://web.archive.org/web/20180815145325im_/http://committed.cl/wp-content/uploads/2017/05/SERVICIOS-01-1.jpg%22
+FAILED: https://web.archive.org/web/20180815145325im_/http://committed.cl/wp-content/uploads/2017/05/SERVICIOS-02.jpg%22
+FAILED: https://web.archive.org/web/20180815145325im_/http://committed.cl/wp-content/uploads/2017/05/SERVICIOS-03.jpg%22
+FAILED: https://web.archive.org/web/20180815145325im_/http://committed.cl/wp-content/uploads/2017/05/SERVICIOS-04.jpg%22
+FAILED: https://web.archive.org/web/20180815145325im_/http://committed.cl/wp-content/uploads/2017/05/SERVICIOS-05.jpg%22
+FAILED: https://web.archive.org/web/20180815145325im_/http://committed.cl/wp-content/uploads/2017/05/SERVICIOS-06.jpg%22
+FAILED: https://web.archive.org/web/20180815145325im_/http://committed.cl/wp-content/uploads/2017/05/concrete_seamless.png);background-repeat:
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-180x180.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-192x192.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-32x32.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/06/HEADER.jpg (already exists)
+FAILED: https://web.archive.org/web/20180815145325js_/http://committed.cl/google_analytics_auto.js
+FAILED: https://web.archive.org/web/20180815145325js_/http://committed.cl/wp-content/plugins/codelights-shortcodes-and-widgets/js/cl-core.js?ver=1.3
+FAILED: https://web.archive.org/web/20180815145325js_/http://committed.cl/wp-content/plugins/codelights-shortcodes-and-widgets/js/cl-flipbox.js?ver=1.3
+SKIP: /root/k1ltr0/committed.cl/static/js/scripts.js?ver=5.0.3 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.themepunch.tools.min.js?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery-migrate.min.js?ver=1.4.1 (already exists)
+FAILED: https://web.archive.org/web/20180815145325js_/http://committed.cl/wp-includes/js/jquery/jquery.js?ver=1.12.4
+FAILED: https://web.archive.org/web/20180815145325js_/http://committed.cl/wp-includes/js/wp-embed.min.js?ver=4.9.8
+FAILED: https://web.archive.org/web/20180815152119/http://committed.cl/
+FAILED: https://web.archive.org/web/20180815152119/http://committed.cl/?p=13
+FAILED: https://web.archive.org/web/20180815152119/http://committed.cl/comments/feed/
+FAILED: https://web.archive.org/web/20180815152119/http://committed.cl/feed/
+FAILED: https://web.archive.org/web/20180815152119/http://committed.cl/nosotros/
+FAILED: https://web.archive.org/web/20180815152119/http://committed.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommitted.cl%2Fnosotros%2F
+FAILED: https://web.archive.org/web/20180815152119/http://committed.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommitted.cl%2Fnosotros%2F&amp;format=xml
+SKIP: /root/k1ltr0/committed.cl/static/css/styles.css?ver=5.0.3 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/settings.css?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/Defaults.css?ver=4.9.8 (already exists)
+FAILED: https://web.archive.org/web/20180815152119im_/http://committed.cl/nosotros/
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/LOGO_COMMITTED.png (already exists)
+FAILED: https://web.archive.org/web/20180815152119im_/http://committed.cl/wp-content/uploads/2017/05/LOGO_COMMITTED_NOSOTROS-300x209.png
+FAILED: https://web.archive.org/web/20180815152119im_/http://committed.cl/wp-content/uploads/2017/05/LOGO_COMMITTED_NOSOTROS.png
+FAILED: https://web.archive.org/web/20180815152119im_/http://committed.cl/wp-content/uploads/2017/05/NOSOTROS.jpg);background-size:
+FAILED: https://web.archive.org/web/20180815152119im_/http://committed.cl/wp-content/uploads/2017/05/concrete_seamless.png);background-repeat:
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-180x180.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-192x192.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-32x32.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/06/HEADER.jpg (already exists)
+FAILED: https://web.archive.org/web/20180815152119js_/http://committed.cl/google_analytics_auto.js
+SKIP: /root/k1ltr0/committed.cl/static/js/scripts.js?ver=5.0.3 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.themepunch.tools.min.js?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery-migrate.min.js?ver=1.4.1 (already exists)
+FAILED: https://web.archive.org/web/20180815152119js_/http://committed.cl/wp-includes/js/jquery/jquery.js?ver=1.12.4
+FAILED: https://web.archive.org/web/20180815152119js_/http://committed.cl/wp-includes/js/wp-embed.min.js?ver=4.9.8
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/?p=107
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/clientes/
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/comments/feed/
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/contacto/
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/feed/
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/galeria/
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/galeria/</div
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/nosotros/
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/servicios/
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/wp-content/uploads/2018/08/App-Committed-Web-y-Mobile.mp4
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/wp-content/uploads/2018/08/En-que-te-podemos-ayudar.mp4
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/wp-content/uploads/2018/08/Resultados.mp4
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommitted.cl%2Fgaleria%2F
+FAILED: https://web.archive.org/web/20180924010053/http://committed.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommitted.cl%2Fgaleria%2F&amp;format=xml
+FAILED: https://web.archive.org/web/20180924010053/http://web.archive.org/screenshot/http://committed.cl/galeria/
+FAILED: https://web.archive.org/web/20180924010053cs_/http://committed.cl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.4
+SKIP: /root/k1ltr0/committed.cl/static/css/settings.css?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/css/Defaults.css?ver=4.9.8 (already exists)
+FAILED: https://web.archive.org/web/20180924010053cs_/http://committed.cl/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1
+FAILED: https://web.archive.org/web/20180924010053cs_/http://committed.cl/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9.8
+FAILED: https://web.archive.org/web/20180924010053im_/http://committed.cl/galeria/
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/LOGO_COMMITTED.png (already exists)
+FAILED: https://web.archive.org/web/20180924010053im_/http://committed.cl/wp-content/uploads/2017/05/concrete_seamless.png);background-repeat:
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-180x180.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-192x192.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-32x32.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/06/HEADER.jpg (already exists)
+FAILED: https://web.archive.org/web/20180924010053im_/http://committed.cl/wp-content/uploads/2018/08/App-Committed-Web-y-Mobile.mp4?_=3
+FAILED: https://web.archive.org/web/20180924010053im_/http://committed.cl/wp-content/uploads/2018/08/En-que-te-podemos-ayudar.mp4?_=1
+FAILED: https://web.archive.org/web/20180924010053im_/http://committed.cl/wp-content/uploads/2018/08/Resultados.mp4?_=2
+FAILED: https://web.archive.org/web/20180924010053js_/http://committed.cl/google_analytics_auto.js
+FAILED: https://web.archive.org/web/20180924010053js_/http://committed.cl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.4
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.themepunch.tools.min.js?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery-migrate.min.js?ver=1.4.1 (already exists)
+FAILED: https://web.archive.org/web/20180924010053js_/http://committed.cl/wp-includes/js/jquery/jquery.js?ver=1.12.4
+FAILED: https://web.archive.org/web/20180924010053js_/http://committed.cl/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1
+FAILED: https://web.archive.org/web/20180924010053js_/http://committed.cl/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.8
+FAILED: https://web.archive.org/web/20180924010053js_/http://committed.cl/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.6-78496d1
+FAILED: https://web.archive.org/web/20180924010053js_/http://committed.cl/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.9.8
+FAILED: https://web.archive.org/web/20180924010053js_/http://committed.cl/wp-includes/js/wp-embed.min.js?ver=4.9.8
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/#webpage
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/#website
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/?s={search_term_string}
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/clientes/
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/comments/feed/
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/contacto/
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/feed/
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/galeria/
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/servicios/
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcommitted.cl%2F
+FAILED: https://web.archive.org/web/20241122172157/https://committed.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcommitted.cl%2F&amp;format=xml
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/06/HEADER.jpg (already exists)
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-01-300x167.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-01-600x333.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-01-768x427.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-01.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-02-300x167.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-02-600x333.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-02-768x427.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-02.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-03-300x167.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-03-600x333.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-03-768x427.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/HOME-03.jpg
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/LOGO_COMMITTED.png (already exists)
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/SHADOW-1.png
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/05/concrete_seamless.png);background-repeat:
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-180x180.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-192x192.png (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/images/wp-content/uploads/2017/05/cropped-FAVICON-32x32.png (already exists)
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/06/SLIDER-HOME-04.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/06/SLIDER-HOME-05.jpg
+FAILED: https://web.archive.org/web/20241122172157im_/https://committed.cl/wp-content/uploads/2017/06/SLIDER-HOME-06.jpg
+FAILED: https://web.archive.org/web/20241122172157js_/http://committed.cl/google_analytics_auto.js
+FAILED: https://web.archive.org/web/20241122172157js_/https://committed.cl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery.themepunch.tools.min.js?ver=5.3.1.5 (already exists)
+SKIP: /root/k1ltr0/committed.cl/static/js/jquery-migrate.min.js?ver=1.4.1 (already exists)
+FAILED: https://web.archive.org/web/20241122172157js_/https://committed.cl/wp-includes/js/jquery/jquery.js?ver=1.12.4
+FAILED: https://web.archive.org/web/20241122172157js_/https://committed.cl/wp-includes/js/wp-embed.min.js?ver=5.1.18

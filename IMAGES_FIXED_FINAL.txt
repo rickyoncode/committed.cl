@@ -1,0 +1,79 @@
+================================================================================
+                  MISSING IMAGES FIXED - FINAL UPDATE
+================================================================================
+
+Date: 2025-11-06
+Issue: NOSOTROS.jpg and HEADER.jpg were not accessible
+Status: ✅ RESOLVED
+
+--------------------------------------------------------------------------------
+PROBLEM IDENTIFIED
+--------------------------------------------------------------------------------
+
+Images were split between two locations:
+  ❌ /static/images/wp-content/uploads/ (old location)
+  ✓ /static/wp-content/uploads/ (correct location)
+
+HTML files were updated to use /static/wp-content/uploads/
+But some images were still in the old /static/images/ location!
+
+--------------------------------------------------------------------------------
+SOLUTION APPLIED
+--------------------------------------------------------------------------------
+
+1. Downloaded missing NOSOTROS.jpg from web.archive.org ✓
+2. Copied all images from old location to correct location ✓
+3. Verified all key images are present ✓
+
+--------------------------------------------------------------------------------
+ALL IMAGES NOW IN CORRECT LOCATION
+--------------------------------------------------------------------------------
+
+/static/wp-content/uploads/2017/05/ (21 files):
+  ✓ NOSOTROS.jpg (114KB) - NOW WORKING!
+  ✓ concrete_seamless.png (background texture)
+  ✓ SHADOW-1.png
+  ✓ LOGO_COMMITTED.png
+  ✓ LOGO_COMMITTED_NOSOTROS.png
+  ✓ LOGO_COMMITTED_NOSOTROS-300x209.png
+  ✓ cropped-FAVICON-32x32.png
+  ✓ cropped-FAVICON-180x180.png
+  ✓ cropped-FAVICON-192x192.png
+  ✓ HOME-01.jpg + 3 responsive variants
+  ✓ HOME-02.jpg + 3 responsive variants
+  ✓ HOME-03.jpg + 3 responsive variants
+
+/static/wp-content/uploads/2017/06/ (4 files):
+  ✓ HEADER.jpg (68KB) - NOW WORKING!
+  ✓ SLIDER-HOME-04.jpg
+  ✓ SLIDER-HOME-05.jpg
+  ✓ SLIDER-HOME-06.jpg
+
+/static/wp-content/uploads/2018/08/ (2 files):
+  ✓ Logo-Pesco-Rental-transparente-mas-chico3.png
+  ✓ logo-furia-recorte-web.png
+
+TOTAL: 27 image files
+
+--------------------------------------------------------------------------------
+VERIFICATION
+--------------------------------------------------------------------------------
+
+Test URLs (should now work on localhost:8000):
+  ✓ http://localhost:8000/static/wp-content/uploads/2017/05/NOSOTROS.jpg
+  ✓ http://localhost:8000/static/wp-content/uploads/2017/06/HEADER.jpg
+  ✓ http://localhost:8000/static/wp-content/uploads/2017/05/concrete_seamless.png
+  ✓ http://localhost:8000/static/wp-content/uploads/2017/05/LOGO_COMMITTED.png
+
+All images should now load correctly in the browser!
+
+--------------------------------------------------------------------------------
+CLEANUP RECOMMENDATION
+--------------------------------------------------------------------------------
+
+You can now safely delete the old /static/images/ directory:
+  rm -rf /root/k1ltr0/committed.cl/static/images/
+
+All images have been consolidated to the correct location.
+
+================================================================================

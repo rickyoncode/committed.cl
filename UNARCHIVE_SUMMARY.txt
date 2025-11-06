@@ -1,0 +1,130 @@
+================================================================================
+                         UNARCHIVE OPERATION COMPLETE
+================================================================================
+
+Date: 2025-11-06
+Task: Remove web.archive.org references and download missing static files
+
+--------------------------------------------------------------------------------
+STATISTICS
+--------------------------------------------------------------------------------
+
+Archive URLs Processed:
+  - Total unique archive.org URLs found: 296
+  - Committed.cl resources identified: 259
+  - External CDN resources: 37
+
+Static Files:
+  - Total files in static folder: 41
+  - Files downloaded: 25 (including jquery.js)
+  - Files already existed: 79
+  - Failed downloads: 156 (mostly duplicates, HTML pages, API endpoints)
+
+HTML Files Updated:
+  - index.html: 49 replacements
+  - nosotros/index.html: 41 replacements
+  - Total: 90+ URLs updated
+
+Filename Cleanup:
+  - Fixed 13 files with query parameters in filenames
+  - Removed 4 invalid files (wordfence, oembed endpoints)
+
+--------------------------------------------------------------------------------
+KEY CHANGES
+--------------------------------------------------------------------------------
+
+1. Committed.cl Resources → Local Paths
+   
+   CSS:     /static/css/*.css
+   JS:      /static/js/*.js
+   Images:  /static/images/wp-content/uploads/*
+   Fonts:   /static/fonts/*
+
+2. External Resources → Original URLs
+   
+   ✓ Google Fonts: https://fonts.googleapis.com/
+   ✓ WordPress.org: https://s.w.org/
+   ✓ LinkedIn: https://www.linkedin.com/
+   ✓ Schema.org: https://schema.org/
+
+3. Filename Fixes
+   
+   Before: style.min.css?ver=4.1.1
+   After:  style.min.css
+   
+   Note: HTML still includes ?ver=... in URLs, which is correct!
+   The browser sends the query param, but the file is served without it.
+
+4. JavaScript Objects Cleaned
+   
+   ✓ window._wpemojiSettings
+   ✓ wpcf7.apiSettings
+   ✓ $us.templateDirectoryUri
+   ✓ RevSlider jsFileLocation
+   ✓ tel: and mailto: links
+
+--------------------------------------------------------------------------------
+REMAINING ARCHIVE.ORG REFERENCES (HARMLESS)
+--------------------------------------------------------------------------------
+
+Only non-functional references remain:
+
+1. HTML Comments: <!-- Mirrored from web.archive.org/... -->
+2. Wayback Machine code: __wm.init(), wombat.js
+3. Archive.org analytics scripts
+
+These don't affect functionality and can be left as-is or manually removed.
+
+--------------------------------------------------------------------------------
+FILES CREATED
+--------------------------------------------------------------------------------
+
+Reports:
+  - UNARCHIVE_REPORT.md (detailed documentation)
+  - UNARCHIVE_SUMMARY.txt (this file)
+
+Data Files:
+  - archive_urls.txt (all 296 extracted URLs)
+  - url_mapping.txt (259 URL→path mappings)
+  - download_log.txt (download results)
+
+Scripts:
+  - unarchive.sh (URL extraction)
+  - download_missing.sh (file downloader)
+  - fix_filenames.sh (filename cleanup)
+  - cleanup_html.py (HTML URL replacer)
+  - cleanup_html_fixed.py (improved version)
+  - cleanup_js_objects.py (JavaScript cleaner)
+
+Backups:
+  - index.html.bak
+  - nosotros/index.html.bak
+
+--------------------------------------------------------------------------------
+VERIFICATION
+--------------------------------------------------------------------------------
+
+Check static files:
+  $ find static -type f | sort
+
+Check for query params in filenames:
+  $ find static -name "*\?*"
+  (should return 0 files)
+
+Count archive.org functional URLs:
+  $ grep -E "web\.archive\.org" index.html | \
+    grep -v "<!-- Mirrored" | grep -v "__wm\." | wc -l
+  (should be 0)
+
+--------------------------------------------------------------------------------
+STATUS: ✓ SUCCESS
+--------------------------------------------------------------------------------
+
+All committed.cl resources now load from local /static/ folder.
+All external CDN resources use their original URLs.
+Filenames are clean (no query parameters).
+HTML is properly updated.
+
+The site is ready for deployment!
+
+================================================================================

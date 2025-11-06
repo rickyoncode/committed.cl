@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-18:58:45	146/146	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2004%20Nov%202025%2021:58:43%20GMT	https://web.archive.org/robots.txt		(from )
-18:58:45	82208/82208	---MCZ	200	added ('OK')	text/html	date:Tue,%2004%20Nov%202025%2021:58:44%20GMT	https://web.archive.org/web/20180924010053/http://committed.cl/galeria/	web.archive.org/web/20180924010053/http_/committed.cl/galeria/index.html	(from )
